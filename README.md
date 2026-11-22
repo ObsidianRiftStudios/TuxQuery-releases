@@ -4,6 +4,11 @@
 
 # TuxQuery
 
+![Rust](https://img.shields.io/badge/Written%20in-Rust-orange?logo=rust&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white)
+![License](https://img.shields.io/badge/License-Free%20for%20personal%20use-green)
+
 **Instant file search for Linux.** TuxQuery keeps an index of every file name on your computer in memory and updates it live as files change, so a search over millions of files takes a few milliseconds.
 
 Made by [Obsidian Rift Studios](mailto:support@obsidianrift.net). Free for personal use.

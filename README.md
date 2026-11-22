@@ -8,6 +8,14 @@
 
 Made by [Obsidian Rift Studios](mailto:support@obsidianrift.net). Free for personal use.
 
+## Screenshots
+
+![The TuxQuery main window](docs/screenshots/main-window.png)
+
+![Previewing a file in TuxQuery](docs/screenshots/file-preview.png)
+
+![The TuxQuery search menu](docs/screenshots/search-menu.png)
+
 ## Download
 
 Get the latest `.deb` package and its checksum from the **[Releases](../../releases/latest)** page.

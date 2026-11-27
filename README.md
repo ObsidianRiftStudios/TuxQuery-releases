@@ -33,7 +33,7 @@ Get the latest `.deb` package and its checksum from the **[Releases](../../relea
 ## Install
 
 ```sh
-sha256sum -c SHA256SUMS                      # optional: check the download
+sha256sum -c tuxquery_<version>_amd64.deb.sha256                      # optional: check the download
 sudo apt install ./tuxquery_<version>_amd64.deb
 ```
 
